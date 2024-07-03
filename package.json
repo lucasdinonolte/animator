@@ -1,0 +1,21 @@
+{
+  "name": "@lucasdinonolte/animator",
+  "version": "0.0.1",
+  "description": "Animating in code using keyframes.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "format": "prettier . --check",
+    "format:fix": "prettier . --write"
+  },
+  "keywords": [
+    "animation",
+    "keyframes"
+  ],
+  "author": "Lucas Dino Nolte <hello@lucas-nolte.com>",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.3.2"
+  }
+}
